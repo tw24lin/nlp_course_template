@@ -48,7 +48,4 @@
   ```bash
   jupyter notebook
   ```
-- **啟動應用程式 (Run the Web Application)** 
-  ```bash
-  streamlit run src/app.py
-  ```
+
