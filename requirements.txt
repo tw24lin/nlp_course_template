@@ -1,9 +1,6 @@
 # 建議 Python 版本 (Recommended Python Version): 3.11 或 3.12
 # =====================================================================
 
-# 核心深度學習運算框架 (Core deep learning framework)
-torch
-
 # Jupyter 互動式筆記本環境 (Jupyter Notebook interactive environment)
 jupyter
 ipykernel
